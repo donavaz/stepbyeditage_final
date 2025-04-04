@@ -1,0 +1,1 @@
+export const PX_PER_SECOND = 40;
